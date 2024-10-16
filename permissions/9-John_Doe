@@ -1,0 +1,3 @@
+#!/bin/bash
+chm
+chmod 731 hello
