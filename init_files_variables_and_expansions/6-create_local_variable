@@ -1,2 +1,2 @@
 #!/bin/bash
-\nBEST="School"\necho "BEST variable is set to: $BEST"' > 6-best_variable
+BEST=school
